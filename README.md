@@ -179,3 +179,31 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+## Future Improvements
+
+Potential future enhancements for this ML pipeline include:
+
+- Exploring additional regression models beyond Random Forest, such as Gradient Boosting or XGBoost, to compare performance and improve predictive accuracy.
+
+- Expanding exploratory data analysis (EDA) with additional visualizations and feature engineering to better understand the relationships between listing characteristics and price.
+
+- Implementing additional automated data validation checks to identify anomalies or data drift in incoming datasets and improve long-term pipeline reliability.
+
+- Further tuning hyperparameters and experimenting with optimization strategies to improve model performance and reduce prediction error.
+
+
+## Project Links
+
+GitHub Repository:
+https://github.com/jennylynn235/Project-Build-an-ML-Pipeline-Starter
+
+Weights & Biases Report:
+https://wandb.ai/jenny-lynn235-western-governors-university/nyc_airbnb/reports/NYC-Airbnb-Machine-Learning-Pipeline-Report--VmlldzoxNzE5NzQ0Nw?accessToken=fntw1fuygsuvgmygvdt2rp3oizsie56bu801k6k3r7as93s9lc84jiv57rq1dkv2
+
+Weights & Biases Project Workspace:
+https://wandb.ai/jenny-lynn235-western-governors-university/nyc_airbnb?nw=nwuserjennylynn235
+
+Note: My W&B academic/team account does not provide a public visibility option for the workspace. A viewable report link has been included above, along with the project workspace link for reviewer access to runs, artifacts, and pipline outputs.
+
